@@ -5,5 +5,5 @@ sentence-transformers==2.2.2
 transformers==4.35.2
 python-dotenv==1.0.0
 pinecone-client==2.2.4
+huggingface-hub==0.16.4
 protobuf==3.20.0
-datasets 
